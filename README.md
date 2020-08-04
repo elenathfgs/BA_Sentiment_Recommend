@@ -12,8 +12,8 @@ If you only want to use the sentiment analysis part, you could directly use the 
 
 ## Data Volume test
 
-![test_sentiment](./test_sentiment.png)
+![test_sentiment](test_sentiment.png)
 
-![test_recommend](./test_recommend.png)
+![test_recommend](test_recommend.png)
 
-![Figure_1](./Figure_1.png)
+![Figure_1](Figure_1.png)
