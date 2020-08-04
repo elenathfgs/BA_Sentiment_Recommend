@@ -9,3 +9,11 @@ Please note that you should first set up the Spark-python Environment
 
 ## Sentiment Analisys Quick Start
 If you only want to use the sentiment analysis part, you could directly use the sentiment weight data in the sentiment folder, which is stored in CSV format.
+
+## Data Volume test
+
+![test_sentiment](./test_sentiment.png)
+
+![test_recommend](./test_recommend.png)
+
+![Figure_1](./Figure_1.png)
